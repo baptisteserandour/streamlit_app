@@ -1,5 +1,4 @@
 streamlit
-requests
 pillow
 #wheel
 #colorama
