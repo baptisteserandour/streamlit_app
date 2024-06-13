@@ -38,7 +38,7 @@ st.markdown(
 )
 
 # Display logo
-logo = Image.open("streamlit_app/img/pv_img.png")
+logo = Image.open("img/pv_img.png")
 st.image(logo, width=200)
 
 st.title("Picky Vampire")
