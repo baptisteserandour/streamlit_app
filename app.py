@@ -41,7 +41,6 @@ st.markdown(
 logo = Image.open("streamlit_app/img/pv_img.png")
 st.image(logo, width=200)
 
-# Title of the app
 st.title("Picky Vampire")
 
 # Description of the app
