@@ -2,9 +2,6 @@ import streamlit as st
 import requests
 from PIL import Image
 import random
-import base64
-
-#toto
 
 # Apply custom CSS to change the background color and text color
 st.markdown(
